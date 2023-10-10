@@ -1,8 +1,10 @@
 #### Hi there 👋👋
 
 
-##<center>I am...👻</center>
+<center>I am I study data science, machine learning and artificial intelligence. I am mainly interested in NLP and recommender systems.👻</center>
 
+Major : business administration(MIS) & SW
+Interest Research : NLP & recommender system
 <!--
 **AsellaS2/AsellaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
