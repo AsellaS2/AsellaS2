@@ -1,7 +1,7 @@
-### Hi there 👋👋
+#### Hi there 👋👋
 
 
-<center>I am...👻</center>
+##<center>I am...👻</center>
 
 <!--
 **AsellaS2/AsellaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
