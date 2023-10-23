@@ -5,6 +5,9 @@
 
 ><center>🗨️Major : business administration(MIS) & SW</center></br>
 ><center>📝Interest Research : NLP & recommender system</center></br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsellaS2&show_icons=true&theme=radical)
+
 <!--
 **AsellaS2/AsellaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
