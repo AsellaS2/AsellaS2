@@ -8,6 +8,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsellaS2&show_icons=true&theme=radical)
 
+![](https://github.com/AsellaS2/AsellaS2/assets/69001369/4fa56e31-bfcd-4dcc-90a5-b988551e3c90)
+
+
+
 <!--
 **AsellaS2/AsellaS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
