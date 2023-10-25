@@ -1,7 +1,7 @@
 #### Hi there 👋👋
 
 
-<center>I am I study data science, machine learning and artificial intelligence. I am mainly interested in NLP and recommender systems.👻</center></br>
+<center>I study data science, machine learning and artificial intelligence. I am mainly interested in NLP and recommender systems.👻</center></br>
 
 ><center>🗨️Major : business administration(MIS) & SW</center></br>
 ><center>📝Interest Research : NLP & recommender system</center></br>
