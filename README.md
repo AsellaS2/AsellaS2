@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=/R&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=/MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=/MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=/MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=/PyCharm&logoColor=white">
 </p>
 
